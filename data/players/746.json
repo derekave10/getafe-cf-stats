@@ -1,0 +1,96 @@
+{
+  "id": 746,
+  "name": "Djené Dakonam",
+  "firstname": "Djené",
+  "lastname": "Dakonam",
+  "age": 33,
+  "nationality": "Togo",
+  "photo": "https://media.api-sports.io/football/players/746.png",
+  "number": 3,
+  "position": "Defender",
+  "seasons": [
+    {
+      "season": 2017,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 35, "lineups": 35, "minutes": 3085, "position": "Defender" },
+          "goals": { "total": 1, "assists": 0 },
+          "cards": { "yellow": 7, "red": 0 }
+        }
+      ]
+    },
+    {
+      "season": 2018,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 34, "lineups": 34, "minutes": 2980, "position": "Defender" },
+          "goals": { "total": 0, "assists": 1 },
+          "cards": { "yellow": 9, "red": 1 }
+        },
+        {
+          "competition": { "id": 3, "name": "UEFA Europa League", "type": "Cup", "logo": "" },
+          "games": { "appearences": 6, "lineups": 6, "minutes": 540, "position": "Defender" },
+          "goals": { "total": 0, "assists": 0 },
+          "cards": { "yellow": 1, "red": 0 }
+        }
+      ]
+    },
+    {
+      "season": 2019,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 33, "lineups": 32, "minutes": 2810, "position": "Defender" },
+          "goals": { "total": 0, "assists": 0 },
+          "cards": { "yellow": 8, "red": 0 }
+        }
+      ]
+    },
+    {
+      "season": 2020,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 30, "lineups": 29, "minutes": 2520, "position": "Defender" },
+          "goals": { "total": 1, "assists": 0 },
+          "cards": { "yellow": 6, "red": 0 }
+        }
+      ]
+    },
+    {
+      "season": 2021,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 28, "lineups": 27, "minutes": 2340, "position": "Defender" },
+          "goals": { "total": 0, "assists": 1 },
+          "cards": { "yellow": 5, "red": 0 }
+        }
+      ]
+    },
+    {
+      "season": 2022,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 25, "lineups": 24, "minutes": 2050, "position": "Defender" },
+          "goals": { "total": 0, "assists": 0 },
+          "cards": { "yellow": 4, "red": 1 }
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 22, "lineups": 20, "minutes": 1720, "position": "Defender" },
+          "goals": { "total": 0, "assists": 0 },
+          "cards": { "yellow": 3, "red": 0 }
+        }
+      ]
+    }
+  ]
+}

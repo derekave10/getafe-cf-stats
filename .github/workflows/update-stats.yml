@@ -1,0 +1,39 @@
+name: Actualizar estadísticas Getafe CF
+
+on:
+  schedule:
+    # Lunes y jueves a las 6am UTC (7am España)
+    - cron: "0 6 * * 1,4"
+  workflow_dispatch: # También se puede lanzar manualmente desde GitHub
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Obtener datos de API-Football
+        run: node scripts/fetch-data.mjs
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+
+      - name: Commit datos actualizados
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "stats: actualización automática $(date +'%Y-%m-%d')"
+          git push

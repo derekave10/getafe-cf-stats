@@ -1,0 +1,53 @@
+{
+  "id": 19209,
+  "name": "Borja Mayoral",
+  "firstname": "Borja",
+  "lastname": "Mayoral",
+  "age": 27,
+  "nationality": "Spain",
+  "photo": "https://media.api-sports.io/football/players/19209.png",
+  "number": 7,
+  "position": "Attacker",
+  "seasons": [
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 34, "lineups": 30, "minutes": 2650, "position": "Attacker" },
+          "goals": { "total": 12, "assists": 5 },
+          "cards": { "yellow": 4, "red": 0 }
+        },
+        {
+          "competition": { "id": 553, "name": "Copa del Rey", "type": "Cup", "logo": "" },
+          "games": { "appearences": 4, "lineups": 4, "minutes": 360, "position": "Attacker" },
+          "goals": { "total": 3, "assists": 1 },
+          "cards": { "yellow": 0, "red": 0 }
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": { "id": 140, "name": "La Liga", "type": "League", "logo": "" },
+          "games": { "appearences": 28, "lineups": 25, "minutes": 2180, "position": "Attacker" },
+          "goals": { "total": 9, "assists": 3 },
+          "cards": { "yellow": 3, "red": 0 }
+        },
+        {
+          "competition": { "id": 553, "name": "Copa del Rey", "type": "Cup", "logo": "" },
+          "games": { "appearences": 3, "lineups": 3, "minutes": 270, "position": "Attacker" },
+          "goals": { "total": 2, "assists": 0 },
+          "cards": { "yellow": 1, "red": 0 }
+        },
+        {
+          "competition": { "id": 5, "name": "UEFA Europa Conference League", "type": "Cup", "logo": "" },
+          "games": { "appearences": 6, "lineups": 5, "minutes": 430, "position": "Attacker" },
+          "goals": { "total": 4, "assists": 2 },
+          "cards": { "yellow": 0, "red": 0 }
+        }
+      ]
+    }
+  ]
+}

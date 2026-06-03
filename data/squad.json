@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2935,
+    "name": "David Soria",
+    "age": 31,
+    "number": 1,
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/2935.png"
+  },
+  {
+    "id": 746,
+    "name": "Djené Dakonam",
+    "age": 33,
+    "number": 3,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/746.png"
+  },
+  {
+    "id": 283,
+    "name": "Ángel Rodríguez",
+    "age": 37,
+    "number": 9,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/283.png"
+  },
+  {
+    "id": 19209,
+    "name": "Borja Mayoral",
+    "age": 27,
+    "number": 7,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/19209.png"
+  },
+  {
+    "id": 20081,
+    "name": "Mauro Arambarri",
+    "age": 28,
+    "number": 8,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/20081.png"
+  },
+  {
+    "id": 748,
+    "name": "Jorge Molina",
+    "age": 41,
+    "number": 23,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/748.png"
+  }
+]

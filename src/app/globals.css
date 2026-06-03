@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+:root {
+  --background: #00215E;
+  --foreground: #ffffff;
+
+  /* Getafe CF Brand Palette */
+  --blue-deep: #00215E;
+  --blue-mid: #002E85;
+  --blue-corp: #003CAB;
+  --blue-main: #00369E;
+  --blue-bright: #0052EB;
+
+  --red-getafe: #D72A27;
+  --yellow-getafe: #F9EC2E;
+  --gray-light: #DDDDDC;
+  --gray-dark: #3F4344;
+
+  --font-heading: var(--font-barlow);
+  --font-body: var(--font-dm-sans);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--blue-deep);
+  color: var(--foreground);
+  font-family: var(--font-body), sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Tabular numbers for stats */
+.tabular {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--blue-deep);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--blue-corp);
+  border-radius: 3px;
+}
