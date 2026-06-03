@@ -1,0 +1,154 @@
+{
+  "id": 119742,
+  "name": "Juan Iglesias",
+  "firstname": "Juan Antonio",
+  "lastname": "Iglesias Sánchez",
+  "age": 27,
+  "nationality": "Spain",
+  "photo": "https://media.api-sports.io/football/players/119742.png",
+  "number": 21,
+  "position": "Midfielder",
+  "seasons": [
+    {
+      "season": 2022,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 21,
+            "minutes": 2141,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 1,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 8,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 226,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 16,
+            "minutes": 1417,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 2
+          },
+          "cards": {
+            "yellow": 4,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 251,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 32,
+            "minutes": 2890,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 1
+          },
+          "cards": {
+            "yellow": 4,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 4,
+            "minutes": 407,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

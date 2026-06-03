@@ -1,0 +1,60 @@
+{
+  "id": 47320,
+  "name": "Juanmi",
+  "firstname": "Juan Miguel",
+  "lastname": "Jiménez López",
+  "age": 32,
+  "nationality": "Spain",
+  "photo": "https://media.api-sports.io/football/players/47320.png",
+  "number": 7,
+  "position": "Attacker",
+  "seasons": [
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 8,
+            "minutes": 698,
+            "position": "Attacker"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 2,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 44,
+            "position": "Attacker"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 18867,
+  "name": "Diego Rico",
+  "firstname": "Diego",
+  "lastname": "Rico Salguero",
+  "age": 32,
+  "nationality": "Spain",
+  "photo": "https://media.api-sports.io/football/players/18867.png",
+  "number": 16,
+  "position": "Defender",
+  "seasons": [
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 28,
+            "minutes": 2537,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 7
+          },
+          "cards": {
+            "yellow": 10,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 2,
+            "minutes": 184,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

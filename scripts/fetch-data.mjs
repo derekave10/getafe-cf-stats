@@ -17,7 +17,9 @@ const DATA_DIR = path.join(__dirname, "..", "data");
 const PLAYERS_DIR = path.join(DATA_DIR, "players");
 
 const TEAM_ID = 546;
-const API_KEY = process.env.RAPIDAPI_KEY || process.env.API_FOOTBALL_KEY;
+// Supports both api-sports.io direct key and RapidAPI key
+const API_KEY = process.env.API_SPORTS_KEY || process.env.RAPIDAPI_KEY || process.env.API_FOOTBALL_KEY;
+const USE_RAPIDAPI = !!process.env.RAPIDAPI_KEY && !process.env.API_SPORTS_KEY;
 const BASE_URL = "https://v3.football.api-sports.io";
 
 // Seasons to fetch — from 2011 to current year
@@ -37,12 +39,11 @@ async function sleep(ms) {
 }
 
 async function apiFetch(endpoint) {
-  const res = await fetch(`${BASE_URL}${endpoint}`, {
-    headers: {
-      "x-rapidapi-key": API_KEY,
-      "x-rapidapi-host": "v3.football.api-sports.io",
-    },
-  });
+  const headers = USE_RAPIDAPI
+    ? { "x-rapidapi-key": API_KEY, "x-rapidapi-host": "v3.football.api-sports.io" }
+    : { "x-apisports-key": API_KEY };
+
+  const res = await fetch(`${BASE_URL}${endpoint}`, { headers });
 
   if (!res.ok) {
     throw new Error(`API error ${res.status} en ${endpoint}`);

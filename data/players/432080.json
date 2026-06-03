@@ -1,0 +1,107 @@
+{
+  "id": 432080,
+  "name": "Jorge Benito",
+  "firstname": "Jorge",
+  "lastname": "Benito de Valle Martín",
+  "age": 19,
+  "nationality": "Spain",
+  "photo": "https://media.api-sports.io/football/players/432080.png",
+  "number": 35,
+  "position": "Goalkeeper",
+  "seasons": [
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "position": "Goalkeeper"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "position": "Goalkeeper"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "position": "Goalkeeper"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "position": "Goalkeeper"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

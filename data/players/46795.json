@@ -1,0 +1,154 @@
+{
+  "id": 46795,
+  "name": "Domingos Duarte",
+  "firstname": "Domingos",
+  "lastname": "de Sousa Coutinho Meneses Duar",
+  "age": 30,
+  "nationality": "Portugal",
+  "photo": "https://media.api-sports.io/football/players/46795.png",
+  "number": 22,
+  "position": "Defender",
+  "seasons": [
+    {
+      "season": 2022,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 33,
+            "minutes": 2657,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 2
+          },
+          "cards": {
+            "yellow": 11,
+            "red": 1
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 1,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 20,
+            "minutes": 920,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 5,
+            "red": 2
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": null,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 28,
+            "minutes": 1869,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 1,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 4,
+            "red": 2
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 300,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

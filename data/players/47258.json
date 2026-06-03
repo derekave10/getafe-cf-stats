@@ -1,0 +1,154 @@
+{
+  "id": 47258,
+  "name": "M. Arambarri",
+  "firstname": "Mauro Wilney",
+  "lastname": "Arambarri Rosa",
+  "age": 30,
+  "nationality": "Uruguay",
+  "photo": "https://media.api-sports.io/football/players/47258.png",
+  "number": 8,
+  "position": "Midfielder",
+  "seasons": [
+    {
+      "season": 2022,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 13,
+            "minutes": 1000,
+            "position": "Midfielder"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 1
+          },
+          "cards": {
+            "yellow": 4,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "position": "Midfielder"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 3,
+            "minutes": 337,
+            "position": "Midfielder"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 2,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "position": "Midfielder"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 31,
+            "minutes": 2665,
+            "position": "Midfielder"
+          },
+          "goals": {
+            "total": 10,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 10,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 2,
+            "minutes": 200,
+            "position": "Midfielder"
+          },
+          "goals": {
+            "total": 0,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 1,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 47407,
+  "name": "A. Nyom",
+  "firstname": "Allan Roméo",
+  "lastname": "Nyom",
+  "age": 37,
+  "nationality": "Cameroon",
+  "photo": "https://media.api-sports.io/football/players/47407.png",
+  "number": 12,
+  "position": "Defender",
+  "seasons": [
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 10,
+            "minutes": 882,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 1,
+            "assists": 2
+          },
+          "cards": {
+            "yellow": 4,
+            "red": 0
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 15,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": 47250,
+  "name": "D. Dakonam",
+  "firstname": "Djené",
+  "lastname": "Dakonam Ortega",
+  "age": 34,
+  "nationality": "Togo",
+  "photo": "https://media.api-sports.io/football/players/47250.png",
+  "number": 2,
+  "position": "Defender",
+  "seasons": [
+    {
+      "season": 2022,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2847,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 1
+          },
+          "cards": {
+            "yellow": 10,
+            "red": 1
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 275,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": 0,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 3,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 32,
+            "minutes": 2490,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 14,
+            "red": 1
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 90,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 31,
+            "minutes": 2553,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 10,
+            "red": 1
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 100,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}

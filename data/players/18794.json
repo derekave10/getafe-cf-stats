@@ -1,0 +1,86 @@
+{
+  "id": 18794,
+  "name": "Kiko Femenía",
+  "firstname": "Francisco",
+  "lastname": "Femenía Far",
+  "age": 34,
+  "nationality": "Spain",
+  "photo": "https://media.api-sports.io/football/players/18794.png",
+  "number": 17,
+  "position": "Defender",
+  "seasons": [
+    {
+      "season": 2022,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 23,
+            "minutes": 1142,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2023,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 27,
+            "minutes": 1587,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 0
+          },
+          "cards": {
+            "yellow": 8,
+            "red": 1
+          }
+        },
+        {
+          "competition": {
+            "id": 143,
+            "name": "Copa del Rey",
+            "logo": "https://media.api-sports.io/football/leagues/143.png"
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 72,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": null
+          },
+          "cards": {
+            "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    }
+  ]
+}
