@@ -28,7 +28,7 @@ jobs:
       - name: Obtener datos de API-Football
         run: node scripts/fetch-data.mjs
         env:
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
 
       - name: Commit datos actualizados
         run: |
