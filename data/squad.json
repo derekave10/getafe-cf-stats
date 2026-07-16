@@ -72,14 +72,6 @@
     "photo": "https://media.api-sports.io/football/players/18794.png"
   },
   {
-    "id": 609740,
-    "name": "L. Laso",
-    "age": 22,
-    "number": 32,
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/609740.png"
-  },
-  {
     "id": 625636,
     "name": "Jorge Montes",
     "age": 21,
@@ -88,12 +80,20 @@
     "photo": "https://media.api-sports.io/football/players/625636.png"
   },
   {
-    "id": 637891,
-    "name": "D. Caceres",
-    "age": 22,
-    "number": 46,
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/637891.png"
+    "id": 180927,
+    "name": "Z. Romero",
+    "age": 26,
+    "number": 24,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/180927.png"
+  },
+  {
+    "id": 484474,
+    "name": "J. Valou",
+    "age": 20,
+    "number": 23,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/484474.png"
   },
   {
     "id": 46860,
@@ -128,12 +128,12 @@
     "photo": "https://media.api-sports.io/football/players/631889.png"
   },
   {
-    "id": 551462,
-    "name": "M. Aleksandrov",
-    "age": 21,
-    "number": 29,
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/551462.png"
+    "id": 187987,
+    "name": "Ramón Terrats",
+    "age": 25,
+    "number": 14,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/187987.png"
   },
   {
     "id": 184459,
