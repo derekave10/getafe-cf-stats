@@ -64,6 +64,14 @@
     "photo": "https://media.api-sports.io/football/players/47250.png"
   },
   {
+    "id": 388013,
+    "name": "Andrés García",
+    "age": 22,
+    "number": 21,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/388013.png"
+  },
+  {
     "id": 18794,
     "name": "Kiko Femenía",
     "age": 34,
@@ -131,7 +139,7 @@
     "id": 187987,
     "name": "Ramón Terrats",
     "age": 25,
-    "number": 14,
+    "number": 8,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/187987.png"
   },
