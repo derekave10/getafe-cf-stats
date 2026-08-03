@@ -11,7 +11,7 @@
     "id": 482071,
     "name": "Diego Ferrer",
     "age": 18,
-    "number": 42,
+    "number": 35,
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/482071.png"
   },
@@ -115,7 +115,7 @@
     "id": 484474,
     "name": "J. Valou",
     "age": 20,
-    "number": 23,
+    "number": 26,
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/484474.png"
   },
@@ -123,7 +123,7 @@
     "id": 551460,
     "name": "A. R. Alcantara",
     "age": 20,
-    "number": 30,
+    "number": 28,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/551460.png"
   },
@@ -139,7 +139,7 @@
     "id": 669800,
     "name": "Mady Macalou",
     "age": null,
-    "number": null,
+    "number": 32,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/669800.png"
   },
@@ -155,7 +155,7 @@
     "id": 631889,
     "name": "Adrián Riquelme",
     "age": 19,
-    "number": 44,
+    "number": 29,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/631889.png"
   },
