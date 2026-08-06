@@ -11,7 +11,7 @@
     "id": 482071,
     "name": "Diego Ferrer",
     "age": 18,
-    "number": 35,
+    "number": 42,
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/482071.png"
   },
@@ -59,7 +59,7 @@
     "id": 471478,
     "name": "Davinchi",
     "age": 18,
-    "number": 26,
+    "number": 16,
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/471478.png"
   },
@@ -115,7 +115,7 @@
     "id": 484474,
     "name": "J. Valou",
     "age": 20,
-    "number": 26,
+    "number": 23,
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/484474.png"
   },
@@ -126,6 +126,14 @@
     "number": 28,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/551460.png"
+  },
+  {
+    "id": 671625,
+    "name": "Alvaro Gutierrez",
+    "age": 17,
+    "number": 33,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/671625.png"
   },
   {
     "id": 46860,
@@ -174,6 +182,22 @@
     "number": 18,
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/184459.png"
+  },
+  {
+    "id": 671518,
+    "name": "Ebrahima Drammeh",
+    "age": 19,
+    "number": null,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/671518.png"
+  },
+  {
+    "id": 333369,
+    "name": "Joselu",
+    "age": 21,
+    "number": 26,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/333369.png"
   },
   {
     "id": 47320,
