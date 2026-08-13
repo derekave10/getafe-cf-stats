@@ -59,7 +59,7 @@
     "id": 471478,
     "name": "Davinchi",
     "age": 18,
-    "number": 16,
+    "number": 26,
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/471478.png"
   },
@@ -112,6 +112,14 @@
     "photo": "https://media.api-sports.io/football/players/180927.png"
   },
   {
+    "id": 268728,
+    "name": "S. Sazonov",
+    "age": 23,
+    "number": 15,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/268728.png"
+  },
+  {
     "id": 484474,
     "name": "J. Valou",
     "age": 20,
@@ -123,7 +131,7 @@
     "id": 551460,
     "name": "A. R. Alcantara",
     "age": 20,
-    "number": 28,
+    "number": 30,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/551460.png"
   },
@@ -144,10 +152,18 @@
     "photo": "https://media.api-sports.io/football/players/46860.png"
   },
   {
+    "id": 575281,
+    "name": "O. Lopez",
+    "age": 19,
+    "number": null,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/575281.png"
+  },
+  {
     "id": 669800,
     "name": "Mady Macalou",
     "age": null,
-    "number": 32,
+    "number": null,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/669800.png"
   },
@@ -163,7 +179,7 @@
     "id": 631889,
     "name": "Adrián Riquelme",
     "age": 19,
-    "number": 29,
+    "number": 44,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/631889.png"
   },
@@ -195,7 +211,7 @@
     "id": 333369,
     "name": "Joselu",
     "age": 21,
-    "number": 26,
+    "number": 37,
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/333369.png"
   },

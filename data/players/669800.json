@@ -6,7 +6,7 @@
   "age": null,
   "nationality": "",
   "photo": "https://media.api-sports.io/football/players/669800.png",
-  "number": 32,
+  "number": null,
   "position": "Midfielder",
   "seasons": []
 }
