@@ -11,7 +11,7 @@
     "id": 482071,
     "name": "Diego Ferrer",
     "age": 18,
-    "number": 42,
+    "number": 35,
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/482071.png"
   },
@@ -35,7 +35,7 @@
     "id": 46813,
     "name": "A. Abqar",
     "age": 26,
-    "number": 3,
+    "number": 5,
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/46813.png"
   },
@@ -59,8 +59,8 @@
     "id": 471478,
     "name": "Davinchi",
     "age": 18,
-    "number": 26,
-    "position": "Defender",
+    "number": 3,
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/471478.png"
   },
   {
@@ -75,8 +75,8 @@
     "id": 388013,
     "name": "Andrés García",
     "age": 22,
-    "number": 16,
-    "position": "Defender",
+    "number": 21,
+    "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/388013.png"
   },
   {
@@ -84,8 +84,16 @@
     "name": "Kiko Femenía",
     "age": 34,
     "number": 17,
-    "position": "Defender",
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/18794.png"
+  },
+  {
+    "id": 64268,
+    "name": "J. Mojica",
+    "age": 33,
+    "number": 22,
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/64268.png"
   },
   {
     "id": 625636,
@@ -115,7 +123,7 @@
     "id": 268728,
     "name": "S. Sazonov",
     "age": 23,
-    "number": 15,
+    "number": 4,
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/268728.png"
   },
@@ -123,7 +131,7 @@
     "id": 484474,
     "name": "J. Valou",
     "age": 20,
-    "number": 23,
+    "number": 26,
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/484474.png"
   },
@@ -131,7 +139,7 @@
     "id": 551460,
     "name": "A. R. Alcantara",
     "age": 20,
-    "number": 30,
+    "number": 28,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/551460.png"
   },
@@ -168,6 +176,14 @@
     "photo": "https://media.api-sports.io/football/players/669800.png"
   },
   {
+    "id": 24882,
+    "name": "O. Mangala",
+    "age": 27,
+    "number": 23,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/24882.png"
+  },
+  {
     "id": 343205,
     "name": "Mario Martín",
     "age": 21,
@@ -187,9 +203,17 @@
     "id": 187987,
     "name": "Ramón Terrats",
     "age": 25,
-    "number": 14,
+    "number": 11,
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/187987.png"
+  },
+  {
+    "id": 403554,
+    "name": "Christantus Uche",
+    "age": 22,
+    "number": 12,
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/403554.png"
   },
   {
     "id": 184459,
@@ -203,8 +227,8 @@
     "id": 671518,
     "name": "Ebrahima Drammeh",
     "age": 19,
-    "number": null,
-    "position": "Attacker",
+    "number": 27,
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/671518.png"
   },
   {
@@ -214,14 +238,6 @@
     "number": 37,
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/333369.png"
-  },
-  {
-    "id": 47320,
-    "name": "Juanmi",
-    "age": 32,
-    "number": 7,
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/47320.png"
   },
   {
     "id": 47472,
@@ -238,5 +254,13 @@
     "number": 10,
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/195512.png"
+  },
+  {
+    "id": 47499,
+    "name": "E. Ünal",
+    "age": 28,
+    "number": 19,
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/47499.png"
   }
 ]

@@ -7,7 +7,7 @@
   "nationality": "Spain",
   "photo": "https://media.api-sports.io/football/players/18794.png",
   "number": 17,
-  "position": "Defender",
+  "position": "Midfielder",
   "seasons": [
     {
       "season": 2022,
@@ -77,6 +77,32 @@
           },
           "cards": {
             "yellow": 0,
+            "red": 0
+          }
+        }
+      ]
+    },
+    {
+      "season": 2024,
+      "competitions": [
+        {
+          "competition": {
+            "id": 140,
+            "name": "La Liga",
+            "logo": "https://media.api-sports.io/football/leagues/140.png"
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 29,
+            "minutes": 2229,
+            "position": "Defender"
+          },
+          "goals": {
+            "total": null,
+            "assists": 1
+          },
+          "cards": {
+            "yellow": 7,
             "red": 0
           }
         }

@@ -1,13 +1,13 @@
 {
-  "id": 482071,
-  "name": "Diego Ferrer",
-  "firstname": "Diego",
-  "lastname": "Ferrer Martínez",
-  "age": 18,
+  "id": 403554,
+  "name": "Christantus Uche",
+  "firstname": "Christantus Ugonna",
+  "lastname": "Uche",
+  "age": 22,
   "nationality": "Spain",
-  "photo": "https://media.api-sports.io/football/players/482071.png",
-  "number": 35,
-  "position": "Goalkeeper",
+  "photo": "https://media.api-sports.io/football/players/403554.png",
+  "number": 12,
+  "position": "Midfielder",
   "seasons": [
     {
       "season": 2024,
@@ -19,18 +19,18 @@
             "logo": "https://media.api-sports.io/football/leagues/140.png"
           },
           "games": {
-            "appearences": 0,
-            "lineups": 0,
-            "minutes": 0,
-            "position": "Goalkeeper"
+            "appearences": 33,
+            "lineups": 32,
+            "minutes": 2501,
+            "position": "Midfielder"
           },
           "goals": {
-            "total": 0,
-            "assists": null
+            "total": 4,
+            "assists": 6
           },
           "cards": {
-            "yellow": 0,
-            "red": 0
+            "yellow": 8,
+            "red": 2
           }
         },
         {
@@ -40,17 +40,17 @@
             "logo": "https://media.api-sports.io/football/leagues/143.png"
           },
           "games": {
-            "appearences": 0,
-            "lineups": 0,
-            "minutes": 0,
-            "position": "Goalkeeper"
+            "appearences": 3,
+            "lineups": 3,
+            "minutes": 259,
+            "position": "Midfielder"
           },
           "goals": {
-            "total": 0,
-            "assists": null
+            "total": null,
+            "assists": 0
           },
           "cards": {
-            "yellow": 0,
+            "yellow": 1,
             "red": 0
           }
         }
