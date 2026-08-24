@@ -60,7 +60,7 @@
     "name": "Davinchi",
     "age": 18,
     "number": 3,
-    "position": "Midfielder",
+    "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/471478.png"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Andrés García",
     "age": 22,
     "number": 21,
-    "position": "Attacker",
+    "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/388013.png"
   },
   {
@@ -92,7 +92,7 @@
     "name": "J. Mojica",
     "age": 33,
     "number": 22,
-    "position": "Defender",
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/64268.png"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Ebrahima Drammeh",
     "age": 19,
     "number": 27,
-    "position": "Midfielder",
+    "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/671518.png"
   },
   {
